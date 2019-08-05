@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>ConsoleExample</AssemblyName>
+    <RootNamespace>RYH.QueryPool.ConsoleExample</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\\RYH.QueryPool.Core\RYH.QueryPool.Core.csproj" />
+  </ItemGroup>
+
+</Project>
